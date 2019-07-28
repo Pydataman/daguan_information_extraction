@@ -1,4 +1,4 @@
-**“达观杯”文本智能信息抽取挑战赛**
+### **“达观杯”文本智能信息抽取挑战赛**
 [比赛链接](https://biendata.com/competition/datagrand/)  
 官方提供了基于CRF++的baseline，训练很快，线上测试为0.85083  
 CRF++的模型预测官方提供的corpus.txt，再预测test.txt，效果会好那么一点  
