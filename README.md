@@ -11,6 +11,8 @@ CRF++的模型预测官方提供的corpus.txt，再预测test.txt，效果会好
 * train.py 训练下改下pre_data.py生成文件的路径  
 * predict.py 生成输出文件，和baseline模型输出文件一样  
 
+* 上传遗漏了evaluator.py，这个py文件和原始开源代码里面的一样，加进去即可
+
 可以加[glove](https://github.com/stanfordnlp/GloVe)、[fasttext](https://github.com/facebookresearch/fastText)等生成的词向量  
 
 :blush: 整理有点粗忙，可能存在bug，欢迎指出，一起进步
